@@ -30,3 +30,7 @@ Follow us on
 <a style="padding-right:10px;" href="https://www.youtube.com/channel/UCIV3inU1Yu2xKDJFKmENV-Q">
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+
+<a style="padding-right:10px;" href="https://dev.to/one-beyond">
+<img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
