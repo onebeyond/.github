@@ -1,5 +1,5 @@
 <div style="display:flex; align-items:center; justify-content:center">
-  <img alt="banner" src="../assets/banner.svg" width="100%" />
+  <img alt="banner" src="https://github.com/onebeyond/.github/blob/main/assets/banner.svg" width="100%" />
 </div>
 
 <br />
@@ -15,6 +15,8 @@ Our award-winning team have a vast range of <a href="https://www.one-beyond.com/
 <p>
 If you think you have what it takes to work within a rapidly growing, multi-national software development business, browse our <a href="https://www.one-beyond.com/careers/">current vacancies here</a>, or <a href="https://www.one-beyond.com/contact-us/">contact us today</a> to find out more about how we can help your business. 
 </p>
+
+----
 
 <p style="display:flex; justify-content: center">
 Follow us on
