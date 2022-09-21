@@ -2,7 +2,7 @@
 
 One Beyond’s commitment to the open source community encourages an attitude of **collaboration, transparency, and flexibility**; a philosophy that enables developers across the world to fulfil their potential and create ground-breaking software, as well as giving back to the open source community the same value that we receive from it. 
 
-Our award-winning team have a vast range of [accreditations](https://www.one-beyond.com/accreditations/) and [awards](https://www.one-beyond.com/awards/), displaying a deep understanding of what it takes to create the very best in bespoke software and digital transformation. You can find more information on the [technology stack we operate from here](https://www.one-beyond.com/process/technology-stack/). 
+Our award-winning team have a vast range of [accreditations](https://www.one-beyond.com/accreditations/) and [awards](https://www.one-beyond.com/awards/), displaying a deep understanding of what it takes to create the very best in bespoke software and digital transformation. You can find more information on the [technology stacks we operate from here](https://www.one-beyond.com/process/technology-stack/). 
 
 If you think you have what it takes to work within a rapidly growing, multi-national software development business, browse our [current vacancies here](https://www.one-beyond.com/careers/), or [contact us today](https://www.one-beyond.com/contact-us/) to find out more about how we can help your business. 
 
