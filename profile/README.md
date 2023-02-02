@@ -27,7 +27,7 @@ Follow us on
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a style="padding-right:10px;" href="https://www.youtube.com/channel/UCIV3inU1Yu2xKDJFKmENV-Q">
+<a style="padding-right:10px;" href="https://www.youtube.com/channel/UCy3ereHF9Ut7uop9JttNWvQ">
 <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
