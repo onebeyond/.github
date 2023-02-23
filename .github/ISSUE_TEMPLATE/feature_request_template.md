@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
+title: "FEATURE: "
 labels: enhancement
 ---
 
