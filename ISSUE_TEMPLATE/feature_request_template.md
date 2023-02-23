@@ -1,3 +1,10 @@
+---
+name: Feature request
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: enhancement
+---
+
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Detailed Description
