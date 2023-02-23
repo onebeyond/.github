@@ -1,3 +1,10 @@
+---
+name: Bug report
+about: Use this template for reporting a bug.
+title: "[DATE]: [BUG NAME]"
+labels: bug
+---
+
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Description
