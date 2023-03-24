@@ -34,3 +34,11 @@ Follow us on
 <a style="padding-right:10px;" href="https://dev.to/one-beyond">
 <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
+
+<a style="padding-right:10px;" href="https://onebeyondopensource.slack.com">
+<img alt="slack" src="https://img.shields.io/badge/slack-36C5F0?style=for-the-badge&logo=slack&logoColor=white" />
+</a>
+
+<a style="padding-right:10px;" href="https://www.one-beyond.com">
+<img alt="One Beyond" src="https://img.shields.io/badge/onebeyond-0A0A0A?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>
